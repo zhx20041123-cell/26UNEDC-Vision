@@ -1,0 +1,14 @@
+id: run8
+name: 小球识别_加图传
+version: 1.0.0
+author: hx
+icon: app.png
+desc: 增加图传
+files:
+  - comm_protocol.py
+  - detector.py
+  - main.py
+  - model_6992.cvimodel
+  - model_6992.mud
+  - network_utils.py
+  - web_ui.py
